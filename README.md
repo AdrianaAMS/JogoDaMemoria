@@ -15,7 +15,7 @@ O Jogo permite exercitar a memória visual ao ter que memorizar figuras para for
 ## Layout do Jogo
 
 
-![Tela 1](https://github.com/AdrianaAMS/JogoDaMemoria/blob/master/assets/Tela1.png)
+![Tela 1](https://github.com/AdrianaAMS/JogoDaMemoria/blob/master/assets/Tela1.png) 
 
 ![Tela 2](https://github.com/AdrianaAMS/JogoDaMemoria/blob/master/assets/Tela2.png)
 
